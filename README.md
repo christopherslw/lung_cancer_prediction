@@ -11,7 +11,3 @@ To run the project, you need to have Python 3 and the following libraries instal
 - pandas
 - scikit-learn
 
-# Usage
-
-To run the project, clone the repository and run the lung.py file:
-
